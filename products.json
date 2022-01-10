@@ -1,0 +1,67 @@
+{
+    "books":[
+        {
+            "title":"Nagasari",
+            "suplier":"Bu Marijah",
+            "published":"2020-12-04T00:00:00.000Z",
+            "price":2000,
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "website":"https://risset.me/",
+            "thumbnail": "https://jpmarket.herokuapp.com/nagasari.jpg"
+        },
+        {
+            "title":"Lumpia",
+            "suplier":"Bu Siti",
+            "published":"2020-12-04T00:00:00.000Z",
+            "price":1000,
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "website":"https://risset.me/",
+            "thumbnail": "https://jpmarket.herokuapp.com/lumpiaa.jpg"
+        },
+        {
+            "title":"Lemper",
+            "suplier":"Bu Sutikah",
+            "published":"2020-12-04T00:00:00.000Z",
+            "price":2000,
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "website":"https://risset.me/",
+            "thumbnail": "https://jpmarket.herokuapp.com/lemperr.jpg"
+        },
+        {
+            "title":"Kue Putu",
+            "suplier":"Bu Marijah",
+            "published":"2020-12-04T00:00:00.000Z",
+            "price":2000,
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "website":"https://risset.me/",
+            "thumbnail": "https://jpmarket.herokuapp.com/kue_putu.jpg"
+        },
+        {
+            "title":"Klepon",
+            "suplier":"Bu Siti",
+            "published":"2020-12-04T00:00:00.000Z",
+            "price":2000,
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "website":"https://risset.me/",
+            "thumbnail": "https://jpmarket.herokuapp.com/klepon.jpg"
+        },
+        {
+            "title":"Getuk Lidri",
+            "suplier":"Bu Marijah",
+            "published":"2020-12-04T00:00:00.000Z",
+            "price":2000,
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "website":"https://risset.me/",
+            "thumbnail": "https://jpmarket.herokuapp.com/getuk_lidri.jpg"
+        },
+        {
+            "title":"Apem",
+            "suplier":"Bu Sutikah",
+            "published":"2020-12-04T00:00:00.000Z",
+            "price":2000,
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "website":"https://risset.me/",
+            "thumbnail": "https://jpmarket.herokuapp.com/apem.jpg"
+        }
+    ]
+}
