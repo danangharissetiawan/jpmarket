@@ -20,7 +20,7 @@ app.use(function (req, res, next) {
 app.use(express.static('public'))
 
 app.get('/', (req, res) => {
-  res.status(200).send("Retrofit Demo Server");
+  res.status(200).send("JP Market Server");
 })
 app.use('/product', productRouter)
 
