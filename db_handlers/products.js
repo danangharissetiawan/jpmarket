@@ -8,7 +8,7 @@ const getProducts = () => {
         reject(err);
       }
       try {
-        resolve(JSON.parse(res).books);
+        resolve(JSON.parse(res).products);
       } catch (err) {
         console.log("Error parsing JSON string:", err);
         reject(err);
