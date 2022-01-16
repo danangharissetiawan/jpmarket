@@ -5,16 +5,16 @@
             "suplier":"Bu Marijah",
             "published":"2020-12-04T00:00:00.000Z",
             "price":2000,
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "description":"Nagasari adalah sejenis kue yang terbuat dari tepung beras, tepung sagu, santan, dan gula yang diisi pisang. Kue ini biasanya dibalut dengan daun pisang lalu dikukus.",
             "website":"https://risset.me/",
-            "thumbnail": "https://jpmarket.herokuapp.com/nagasari.jpg"
+            "thumbnail": "https://jpmarket.herokuapp.com/nagasari.jpeg"
         },
         {
             "title":"Lumpia",
             "suplier":"Bu Siti",
             "published":"2020-12-04T00:00:00.000Z",
             "price":1000,
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "description":"Lumpia adalah makanan ringan yang terdiri dari campuran rebung muda, telur, sayuran segar, dan daging atau makanan laut, di dalam sebuah gulungan terbuat dari lembaran tipis tepung gandum.",
             "website":"https://risset.me/",
             "thumbnail": "https://jpmarket.herokuapp.com/lumpiaa.jpg"
         },
@@ -23,7 +23,7 @@
             "suplier":"Bu Sutikah",
             "published":"2020-12-04T00:00:00.000Z",
             "price":2000,
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "description":"Lemper adalah penganan yang terbuat dari ketan yang biasanya berisi abon atau cincangan daging ayam, dan dibungkus dengan daun pisang.",
             "website":"https://risset.me/",
             "thumbnail": "https://jpmarket.herokuapp.com/lemperr.jpg"
         },
@@ -32,34 +32,34 @@
             "suplier":"Bu Marijah",
             "published":"2020-12-04T00:00:00.000Z",
             "price":2000,
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "description":"Kue putu adalah jenis kudapan tradisional Indonesia berupa kue dengan isian gula jawa, dibalut dengan parutan kelapa, dan tepung beras butiran kasar. Kue ini di kukus dengan diletakkan di dalam tabung bambu yang sedikit dipadatkan.",
             "website":"https://risset.me/",
-            "thumbnail": "https://jpmarket.herokuapp.com/kue_putu.jpg"
+            "thumbnail": "https://jpmarket.herokuapp.com/kue_putu.JPG"
         },
         {
             "title":"Klepon",
             "suplier":"Bu Siti",
             "published":"2020-12-04T00:00:00.000Z",
             "price":2000,
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "description":"Klepon adalah sejenis makanan tradisional atau kue tradisional Indonesia yang termasuk ke dalam kelompok jajanan pasar. Makanan enak ini terbuat dari tepung beras ketan yang dibentuk seperti bola-bola kecil dan diisi dengan gula merah lalu direbus dalam air mendidih.",
             "website":"https://risset.me/",
             "thumbnail": "https://jpmarket.herokuapp.com/klepon.jpg"
         },
         {
-            "title":"Getuk Lidri",
+            "title":"Getuk Lindri",
             "suplier":"Bu Marijah",
             "published":"2020-12-04T00:00:00.000Z",
             "price":2000,
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "description":"Getuk lindri merupakan makanan tradisional dengan bahan dasar singkong. Singkong ditumbuk dan dikukus hingga halus dan kenyal, kemudian diberi gula merah, santan, pewarna makanan, dan digulung dengan menggunakan alat lindri.",
             "website":"https://risset.me/",
-            "thumbnail": "https://jpmarket.herokuapp.com/getuk_lidri.jpg"
+            "thumbnail": "https://jpmarket.herokuapp.com/getuk_lindri.jpg"
         },
         {
             "title":"Apem",
             "suplier":"Bu Sutikah",
             "published":"2020-12-04T00:00:00.000Z",
             "price":2000,
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis metus orci, quis condimentum purus tincidunt eu. Suspendisse luctus id quam nec bibendum. Etiam vitae vehicula tellus.",
+            "description":"Apam atau apem adalah makanan yang terbuat dari tepung beras yang didiamkan semalam dengan mencampurkan telur, santan, gula dan tape serta sedikit garam kemudian dibakar atau dikukus.",
             "website":"https://risset.me/",
             "thumbnail": "https://jpmarket.herokuapp.com/apem.jpg"
         }
