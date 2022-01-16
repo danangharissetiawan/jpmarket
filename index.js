@@ -11,19 +11,21 @@ app.use(express.json())
 app.use(logger('dev'));
 
 app.use(function (req, res, next) {
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'GET,POST,PUT,DELETE,OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Access-Control-Allow-Headers');
-  next();
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Methods', 'GET,POST,PUT,DELETE,OPTIONS');
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Access-Control-Allow-Headers');
+    next();
 });
 
+// folder public untuk menyajikan gambar 
+// https://jpmarket.herokuapp.com/apem.jpg
 app.use(express.static('public'))
 
 app.get('/', (req, res) => {
-  res.status(200).send("JP Market Server");
+    res.status(200).send("JP Market Server");
 })
 app.use('/product', productRouter)
 
 app.listen(port, () => {
-  console.log(`App running on port ${port}.`)
+    console.log(`App running on port ${port}.`)
 })
